@@ -1,1 +1,16 @@
-Shivam
+# About Me
+My name is Shivam Singh Yadav. I am an CSE student at Panjab University, India.
+
+# Experience
+None.
+
+# Interests
+Sports.
+
+# Contact Info
+Email: [shivam1897@gmail.com](mailto:shivam1897@gmail.com)
+
+Github: [divyam3897](https://github.com/shivam1897)
+
+# Emoji
+My favorite emoji is :smile:
